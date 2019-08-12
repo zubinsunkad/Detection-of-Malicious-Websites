@@ -19,7 +19,6 @@ Run the code in R studio t obtain the profiling report and decision tree plot.
 
 ## References
 
-* (https://www.kaggle.com/xwolf12/malicious-and-benign-websites )
-* (https://www.r-bloggers.com/how-to-perform-a-logistic-regression-in-r/ )
+* [Dataset from Kaggle - Christian Urcuqui](https://www.kaggle.com/xwolf12/malicious-and-benign-websites )
+* [Michy Alice](https://www.r-bloggers.com/how-to-perform-a-logistic-regression-in-r/ )
 * Urcuqui, C., Navarro, A., Osorio, J., & Garcıa, M. (2017). Machine Learning Classifiers to Detect Malicious Websites. CEUR Workshop Proceedings. Vol 1950, 14-17
-* (https://github.com/urcuqui/WhiteHat/tree/master/Research/Web%20security)
